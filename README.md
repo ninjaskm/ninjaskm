@@ -33,5 +33,5 @@
 ### 📈 Em desenvolvimento atualmente
 
 - 🚗 Evoluindo o **CarLens** — melhorias de UI/UX e publicação na Play Store
-- 📚 3º período de Ciência da Computação na UNINASSAU
+- 📚 4º período de Ciência da Computação na UNINASSAU
 - 🎯 Buscando primeiro estágio em desenvolvimento back-end
