@@ -25,12 +25,13 @@
 
 ### 🚀 Projeto em Destaque
 
-<a href="https://github.com/ninjaskm/carlens-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ninjaskm&repo=carlens-app&theme=dark" />
-</a>
+**[CarLens — App Mobile de Comparação de Veículos](https://github.com/ninjaskm/carlens-app)**
+> App Android em Kotlin com API REST em Node.js, MongoDB Atlas, autenticação JWT e sistema de recomendação personalizada.
 
 ---
 
-### 📊 Stats
+### 📈 Em desenvolvimento atualmente
 
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ninjaskm&show_icons=true&theme=dark&hide_border=true)
+- 🚗 Evoluindo o **CarLens** — melhorias de UI/UX e publicação na Play Store
+- 📚 3º período de Ciência da Computação na UNINASSAU
+- 🎯 Buscando primeiro estágio em desenvolvimento back-end
