@@ -26,7 +26,7 @@
 ### 🚀 Projeto em Destaque
 
 **[CarLens — App Mobile de Comparação de Veículos](https://github.com/ninjaskm/carlens-app)**
-> App Android em Kotlin com API REST em Node.js, MongoDB Atlas, autenticação JWT e sistema de recomendação personalizada.
+> App Android em Kotlin com API REST em Node.js, MongoDB Atlas, Express, autenticação JWT e sistema de recomendação personalizada.
 
 ---
 
